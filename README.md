@@ -37,7 +37,6 @@ python UniversalTranslator.py --patch "C:\Users\User\Documents" --lang "en"
 
 ## Catatan / Notes
 
-
   (ID)
 - PDF translation akan menimpa teks lama, jadi layout dapat berubah
 - Sangat disarankan untuk membuat backup sebelum menjalankan skrip ini di folder besar
