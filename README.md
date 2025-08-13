@@ -37,7 +37,7 @@ python UniversalTranslator.py --patch "C:\Users\User\Documents" --lang "en"
 
 ## Catatan / Notes
 
-  (ID)
+(ID)
 - PDF translation akan menimpa teks lama, jadi layout dapat berubah
 - Sangat disarankan untuk membuat backup sebelum menjalankan skrip ini di folder besar
 - googletrans kadang eror kalau koneksi ke Google diblokir
@@ -45,7 +45,7 @@ python UniversalTranslator.py --patch "C:\Users\User\Documents" --lang "en"
 - Format file seperti XML, TXT, JSON, PDF, DOCS, XLSX, PPTX bukanlah hal uang dilarang untuk diproses sendiri, apalagi kalau itu konten pribadi atau konten lain yang diizinkan.
 - DILARANG MENJUAL & MENGKLAIM HASIL TERJEMAHAN TANPA IZIN DARI PEMILIK ASLI
 
-  (EN)
+(EN)
 - PDF translation will overwrite the old text, so the layout may change.
 - It is highly recommended to make a backup before running this script in a large folder.
 - googletrans sometimes errors if the connection to Google is blocked.
@@ -59,13 +59,13 @@ python UniversalTranslator.py --patch "C:\Users\User\Documents" --lang "en"
 
 
 (ID)
-Proyek ini dibuat *hanya untuk penggunaan pribadi dan non-komersial*.  
-Segala penggunaan alat ini untuk memproses materi berhak cipta harus mematuhi syarat pemegang hak cipta asli.  
-Pembuat skrip *tidak bertanggung jawab* atas penyalahgunaan atau konsekuensi hukum yang timbul dari penggunaannya.
+- Proyek ini dibuat *hanya untuk penggunaan pribadi dan non-komersial*.  
+- Segala penggunaan alat ini untuk memproses materi berhak cipta harus mematuhi syarat pemegang hak cipta asli.  
+- Pembuat skrip *tidak bertanggung jawab* atas penyalahgunaan atau konsekuensi hukum yang timbul dari penggunaannya.
 
 (EN)
-This project is intended *for personal and non-commercial use only*.  
-Any use of this tool to process copyrighted materials must comply with the original copyright holder's terms.  
-The author of this script is *not responsible* for any misuse or legal consequences arising from its use.
+- This project is intended *for personal and non-commercial use only*.  
+- Any use of this tool to process copyrighted materials must comply with the original copyright holder's terms.  
+- The author of this script is *not responsible* for any misuse or legal consequences arising from its use.
 
 ---
