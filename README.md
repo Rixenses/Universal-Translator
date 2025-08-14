@@ -25,12 +25,12 @@ pip install PyMuPDF python-docx openpyxl python-pptx
 
 ## Cara Penggunaan / Usage
 ```bash
-python UniversalTranslator.py --patch "PATH_FILE_OR_FOLDER" --lang "LANG_CODE"
+python UniversalTranslator.py --path "PATH_FILE_OR_FOLDER" --lang "LANG_CODE"
 ```
 Contoh / Example
 ```bash
-python UniversalTranslator.py --patch "C:\Users\User\Documents" --lang "id"
-python UniversalTranslator.py --patch "C:\Users\User\Documents" --lang "en"
+python UniversalTranslator.py --path "C:\Users\User\Documents" --lang "id"
+python UniversalTranslator.py --path "C:\Users\User\Documents" --lang "en"
 ```
 
 ---
